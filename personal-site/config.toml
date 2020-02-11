@@ -1,0 +1,28 @@
+baseurl = "https://www.example.org/"
+title = "Varun Mangalick"
+copyright = "Copyright &copy; 202- do people even read these?"
+canonifyurls = true
+theme = "hugo-kiera"
+themesDir = "themes"
+
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+[author]
+    name = "Varun Mangalick"
+
+[[menu.main]]
+    name = "Home" 
+    weight = 10 
+    url = "/" 
+[[menu.main]]
+    name = "Projects" 
+    weight = 20 
+    url = "/projects/" 
+[[menu.main]]
+    name = "Life Posts" 
+    weight = 30 
+    url = "/life-posts/" 
