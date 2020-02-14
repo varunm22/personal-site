@@ -124,3 +124,24 @@ The Sognsvann stop was at the end of the 5 train line, and we needed to get to t
 
 Returning the skis was pretty uneventful, and soon we were on our way home. Shortly after, Allison and Magnus returned from Hemsedal, and we, along with Julien and Lukas, watched Trollhunter, a Norwegian mocumentary about a guy who hunts trolls. This was especially entertaining in the context of our last weekend Bergen trip as the movie visited similar places and the trolls resembled the ones which had terrified us in the forest. 
 
+1/21/19
+Today was a sore return to work. Afterwards, Magnus and I cooked made some noodles in a spicy peanut sauce, which was definitely a recipe we’ll be coming back to. 
+
+1/22/19
+Today was also mostly uneventful.
+
+1/23/19
+After work today, we went home, changed into swimsuits, and headed to our booking at the Oslo Floating Sauna. The actual sauna was quite small and made from what appeared to be driftwood, but once we were sweating inside, it felt quite cozy. The 10 of us played games like “never have I ever” and “hot seat”, jumping into the icy fjord water outside as necessary to cool down or reset our scores whenever we were eliminated from the games. 
+
+The two hours we had booked in the sauna was just about as much as we could have wanted, and we changed and headed home soon after.
+
+{{< figure src="/imgs/norway/0106.jpg" caption="Our sauna group" >}}
+{{< figure src="/imgs/norway/0107.jpg" caption="The floating sauna" >}}
+
+1/24/19
+After someone told us about the most iconically Norwegian sweater design, the Mariusgenser, we all decided we had to try our best to get one, or at least a real norwegian sweater of some sort. Sweater prices were higher than expected at proper sweater stores, so we decided to stop by a second hand shop after work, but nothing here was as exciting or good quality as what we hoped to find. 
+
+We ended up just heading home and frantically booking everything for our trip to Tromso tomorrow, including lodging, a car, and tour type stuff. 
+
+Also, someone on Cognite’s marketing team asked if anyone wanted to volunteer to take over the company instagram for a week as something new they’re trying. Since Allison and I have around a week left, we volunteered to do this as a pair, so we’ll be starting our takeover tomorrow. Should be interesting. 
+

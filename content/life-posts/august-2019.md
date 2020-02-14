@@ -7,7 +7,9 @@ categories = []
 +++
 
 ### 08/18/19
-After returning from my South America trip, I had a couple weeks to relax and get prepped for my move to New York. My first weekend back, I went to Interstate state park with family and some extended family to go kayaking on the St. Croix river. This particular route involves spending around 2 hours kayaking 7 miles down calm water surrounded by beautiful foliage, rock cliffs, and occasional sand bars. 
+After returning from my South America trip, I had a couple weeks to relax and get prepped for my move to New York. My first weekend back, I went to Interstate State Park in Taylor Falls with family and some extended family to go kayaking on the St. Croix river. This particular route involves spending around 2 hours kayaking 7 miles down calm water surrounded by beautiful foliage, rock cliffs, and occasional sand bars. By the end, we were sore and very ready for a picnic.
+
+Afterwards, we drove to the very nearby Franconia Sculpture Park. I expected this to be fairly relaxed as it was just a free sculpture park in Minnesota far away from any major city.
 
 
 ### 08/22/19, 08/24/19
