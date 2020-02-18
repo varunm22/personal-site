@@ -18,11 +18,9 @@ misc thoughts:
 - sliced bread is cool and all, but have you ever used a machine at a grocery store to slice your bread in front of you literally right before you buy it?
 
 ### 1/6/19
-After a somewhat restless and jetlagged night, we went by in the morning to join the Canadian interns. We walked through the Vigeland Sculpture in Frogner Park and took lots of fun pics with all the sculptures and the landscape. Overall, the sculptures and such felt a bit underwhelming, but the snowy landscape and unfortunately early sunset made for good pictures at least.
+After a somewhat restless and jetlagged night, we went by in the morning to join the Canadian interns. We walked through the Vigeland Sculptures in Frogner Park and took lots of fun pics with all the sculptures and the landscape. Overall, the sculptures and such felt a bit underwhelming, but the snowy landscape and unfortunately early sunset made for good pictures at least.
 
 {{< figure src="/imgs/norway/0005-0007.jpg" caption="The full group/mid jump" >}}
-
-
 {{< figure src="/imgs/norway/0009.jpg" caption="First meal!" >}}
 
 We ventured out to find food, which was difficult given how many places close on Sunday, and eventually settled on something that felt vaguely like a Norwegian diner. Knowing Norway was not super vegetarian friendly, I came into this trip being okay with trying fish if need be. Today’s dinner turned out to be the first case of “need be” as the most vegetarian friendly option was salmon. While I was able to have a filling meal, it was very weird and definitely not something I am currently a fan of.

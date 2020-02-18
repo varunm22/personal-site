@@ -2,7 +2,7 @@ baseurl = "https://jolly-hodgkin-256ea5.netlify.com/"
 title = "Varun Mangalick"
 copyright = "Copyright &copy; 202- do people even read these?"
 canonifyurls = true
-theme = "hugo-kiera"
+theme = "hugo-kiera-varun"
 themesDir = "themes"
 
 paginate = 3

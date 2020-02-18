@@ -6,7 +6,7 @@ tags = []
 categories = []
 +++
 
-1/25/19
+### 1/25/19
 After work, we stocked up on food for the trip and packed lots of warm layers. We took our 2 hour flight, picked up our rental car, and drove 40 minutes to our Airbnb cabin in the middle of the countryside. As we drove through snowy and harrowingly narrow seaside roads, our eyes were glued to the bright myriad of stars dotting the pitch black skies. We saw a faint, yellowish-grey cloud which seemed a bit too narrow to be one, so I took a long exposure picture from the car window. The mild green glow arcing across the sky in the picture proved we had just seen our first Aurora Borealis (aka the northern lights)! 
 
 Through the rest of the drive, we saw several more faint auroras, and couldn’t wait to get out of the car to a darker spot. Once we reached our cabin, we went to its dock overlooking the fjords and saw a much stronger aurora. 
@@ -15,7 +15,7 @@ Through the rest of the drive, we saw several more faint auroras, and couldn’t
 
 We drove further along the road until we found the first point where we could pull off the road and park. From here, we explored a very snowy hike up the mountain (until it got too snowy around 5 minutes in) and a path down the rocks to the edge of the water. We saw a few more mild auroras here, none as strong as the one by our cabin, but they looked nice with the stars given the lower light level. We came back to the cabin by around 2am and quickly fell asleep.
 
-1/26/19
+### 1/26/19
 We woke up bright and early at around 8:15 and packed up our stuff for the day. Magnus and Allison left for an ice climbing tour at 9:30, so the other 4 of us walked around Storgata, Tromso’s primary shopping street. After getting some pastries from cafes, we found Tromso’s oldest sweater shop, and given our general sweater obsession, we had to go. They generally had the same nicer brands we had seen elsewhere, but I knew I wanted to buy a sweater at some point, it was REALLY cold in Tromso, and this place had a sale shelf. I found a beautiful sweater in just the colors I wanted from what seems to be the best company (Dale of Norway) and which fit me perfectly, so I bought it and checked off one more item from my Norway to-do list. 
 
 {{< figure src="/imgs/norway/0113.jpg" caption="Colorful houses in a frozen town" >}}
@@ -61,7 +61,7 @@ misc thoughts:
     - basically every northern lights pic you see is a long exposure, which helps a lot
     - still worth seeing in person, but definitely have to temper expectations
 
-1/27/19
+### 1/27/19
 We woke up at around 8 to get everything packed up from our Airbnb. On our way to the city, we first saw a reindeer just wander across the road into someone's yard. A little further down the road, we saw an otter jump out of the water and run across the road, holding some unidentified prey animal in its mouth. Our cabin's remote location certainly helped with viewing wildlife, as the listing had advertised.
 
 We parked the car and headed to our pickup for our next tour: dog-sledding. We started off with an hour long bus ride towards the mainland to an area called Ramfjordbotn. Today was already significantly colder than yesterday (it was around 3F), and the temperatures tended to be around 10F colder further inland and away from the city. Accordingly, the people running the tour got us set up with nice boots, mittens, and full-body snowsuits.
@@ -95,29 +95,29 @@ misc thoughts:
 - as of this point, i’ve confidently achieved all of them
 - the only additional thing i’d really want to get out of this trip is to visit some museums to have more understanding of norwegian history, but i’ve hit the big things at least
 
-1/28/19
+### 1/28/19
 After work, we stopped by the Oslo sweater store and Dale concept store to check out some sweaters for Allison. While she tried on several that she somewhat liked, she decided to come back later when the store owner could bring out more extra smalls. 
 
 misc thoughts:
 - if you’re trying to get a high quality norwegian sweater made in norway, dale seems to be the way to go
     - and if you’re getting a dale, the dale store has way better variety than the normal sweater shop
 
-1/29/19 
+### 1/29/19 
 Today was also mostly uneventful except another stop to the Dale sweater store with Allison, though Anna joined this time as well. While Allison was again unable to come to a decision, Anna unexpectedly fell in love with a sweater and resolved to buy it later (instead of now so she can make sure certain stuff with VAT refund works out).
 
-1/30/19
+### 1/30/19
 After work today, Tyler hosted a DnD session at work! I had never played before, so I thought this would be a good opportunity to try. I made my character a wizard/entertainer named Frank, and together, we spent 3 hours escaping a very unfortunate dungeon. 
 
 After work, we decided to have a weird youtube video marathon as our queue of weird youtube videos to show each other had been growing precipitously. This culminated with the 22 minute compilation of weekly “It’s Wendesday My Dudes” videos made by a dude named ZimoNitrome. I highly recommend watching this if anyone wants to experience a spiritual awakening. 
 
-1/31/19
+### 1/31/19
 As I’ve reached basically endgame on my project, I didn’t really have much to do today, so I left by around 2:30pm. I had quite a productive afternoon though, as I picked up jello for jello shots, boxed wine, and stopped by the Dale sweater shop (AGAIN) to take pictures of a bunch of sweaters to potentially get my brother. After that, I did some dance practice stuff warmed up some food, and was wrapped in a blanket on the couch by the time everyone else came back. 
 
 We spent the evening making plans for the weekend, and I started making the first round of jello shots. 
 
 {{< figure src="/imgs/norway/0152.jpg" caption="Finally all sweatered up" >}}
 
-2/1/19
+### 2/1/19
 Today was the last day of work! Morning was pretty relaxed until a new version of something got rolled out, and I frantically rushed around talking to people to try to get my demo to still work. We had our final presentations at our company all-hands meeting, where I showcased my internship work and briefly went through our weekend trips with my Norway checklist (fjords, skiing, northern lights, and sweater). 
 
 Also, since today was the first day of the month, everyone’s lunch cards were refilled for the month. Since it’s our last day, we had 1500 NOK (~180 USD) on our cards that we had to spend in a day. During lunch, we went to the nice pizza restaurant in the lobby instead of the normal cafeteria and bought pizza for ourselves and friends. Then after work, I bought tons of chocolate, some Norwegian licorice, and a couple travel mugs. While all the wanton spending felt somewhat weird, at least it was certainly justified. Of course, Allison lost her card a few days ago, so her 1500 NOK was wasted...
@@ -133,7 +133,7 @@ misc thoughts:
     - these started off with emojis built from other emojis (like the nested levels of parrot squares and the faces), but grew to include people and things from our daily life
     - magnus contributed several of the "thing" emojis that we all truly treasure including finger-in-cup, croissant-on-plate, open-bathroom-door, and intimate-touch. However, my most frequently used emoji in the cognite slack has to be metoothanks
 
-2/2/19
+### 2/2/19
 I finally stumbled out of bed at around 11:30 am to a seemingly empty apartment. Sending a few messages was sufficient to find out that Lukas (who had crashed on our couch) and Magnus had gotten up at 10 and started the momentous cleanup. I (rightfully) assumed Allison was still completely passed out, and messaged out to see if people were still interested in going to the Viking Ship museum as we had previously planned. Julien and Anna joined Magnus and I, and Allison met up with us there once she finally arose. 
 
 The Viking Ship museum was quite cool. It had several giant Viking ships and many artifacts which had been found in the burial mounds the ships were uncovered from. After we went through this, we took our bus back and stopped by the Historisk museum (which is included in the price of admission of the Viking Ship museum, and which is quite close to our place). We were tired enough to not last too long here, so we went back at a bit before 4 to scrounge together a late lunch and continue the apartment cleaning process. 
@@ -164,7 +164,7 @@ misc thoughts:
 - we had originally planned to do some barhopping tonight, but yesterday’s rager was more than enough to put that notion out of our heads
     - while we were surprised that literally every bit of anything alcoholic was seeked out and consumed the night before, we were kinda glad stuff got finished because we definitely weren’t drinking today
 
-2/3/19
+### 2/3/19
 We woke up unfortunately early, finished rinsing the dishes, emptied the fridge, and made our way out. After getting our VAT refunds for our sweaters, going through security, and finding our gates, we said our drawn out goodbyes to each other. Finally, we split to fly back.
 
 {{< figure src="/imgs/norway/0160.jpg" caption="Last apartment squad picture" >}}
