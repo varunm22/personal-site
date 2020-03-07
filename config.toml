@@ -5,11 +5,12 @@ canonifyurls = true
 theme = "hugo-kiera-varun"
 themesDir = "themes"
 
-paginate = 3
+paginate = 10
 
 summaryLength = 30
 enableEmoji = true
 pygmentsCodeFences = true
+pluralizelisttitles = false
 
 [author]
     name = "Varun Mangalick"
@@ -18,11 +19,28 @@ pygmentsCodeFences = true
     name = "Home" 
     weight = 10 
     url = "/" 
+    identifier = "home"
 [[menu.main]]
     name = "Projects" 
     weight = 20 
     url = "/projects/" 
+    identifier = "projects"
 [[menu.main]]
-    name = "Life Posts" 
+    name = "Travel" 
     weight = 30 
-    url = "/life-posts/" 
+    url = "/travel/" 
+    identifier = "travel"
+[[menu.main]]
+    name = "Life" 
+    weight = 40 
+    url = "/life/" 
+    identifier = "life"
+[[menu.main]]
+    name = "Art" 
+    weight = 50 
+    url = "/art/" 
+    identifier = "art"
+
+
+[taxonomies]
+  category = "categories"
