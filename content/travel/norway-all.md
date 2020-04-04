@@ -175,7 +175,7 @@ The two hours we had booked in the sauna was just about as much as we could endu
 {{< figure src="/imgs/norway/0106.jpg" caption="Our sauna group" >}}
 {{< figure src="/imgs/norway/0107.jpg" caption="The floating sauna" >}}
 
-### 1/25/19
+### 1/25/19-1/27/19
 TODO: EDIT STARTING HERE!!!
 
 After work, we stocked up on food for the trip and packed lots of warm layers. We took our 2 hour flight, picked up our rental car, and drove 40 minutes to our Airbnb cabin in the middle of the countryside. As we drove through snowy and harrowingly narrow seaside roads, our eyes were glued to the bright myriad of stars dotting the pitch black skies. We saw a faint, yellowish-grey cloud which seemed a bit too narrow, so I took a long exposure picture from the car window. The mild green glow arcing across the sky in the picture proved we had just seen our first Aurora Borealis (aka the northern lights)! Once we reached our cabin, we went to its dock overlooking the fjords and saw a much stronger aurora. 
