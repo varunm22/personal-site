@@ -1,6 +1,6 @@
 +++
 title = "November 2019"
-date = 2019-12-01T21:30:23-05:00
+date = 2019-11-30T21:30:23-05:00
 draft = false
 tags = []
 categories = []
