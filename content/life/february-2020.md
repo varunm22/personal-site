@@ -1,7 +1,7 @@
 +++
 title = "February 2020"
 date = 2020-02-29T22:04:22-04:00
-draft = true
+draft = false
 tags = []
 categories = []
 +++
