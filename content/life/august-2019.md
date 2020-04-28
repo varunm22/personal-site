@@ -25,6 +25,10 @@ My 6 weeks of travel in South America had involved a conspicuous lack of shaving
 
 {{< figure src="/imgs/life/2019/0007.jpg" caption="Halfway through shaving" >}}
 
+Also while I was gone, my dad had gotten my last two broken watches fixed, so between those, my pre-trip watch, and my backpacking watch, I ended up a little paralyzed by choice.
+
+{{< figure src="/imgs/life/2019/0007_5.jpg" caption="Oldest to newest (right to left)" >}}
+
 ### 08/22/19, 08/24/19
 
 In preparation for a real adult life, I decided to make use of my fully stocked home kitchen to experiment before I move to my apartment. My mom has set me up for some basic Indian dishes, but I also decided to try making homemade seitan to be used in a "Mongolian Beef" dish and mapo tofu. Both turned out excellent, though the mapo tofu was a bit hard to flavor just right.

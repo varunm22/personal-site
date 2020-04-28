@@ -26,11 +26,15 @@ This one is pretty travel related, so it'll be [listed under Travel here][1]
 [1]:{{< ref "london-2020.md" >}}. 
 
 
-### 01/21/20 (crepe cake!)
+### 01/23/20 (crepe cake!)
 
 Today's dessert buffet was catered from Lady M, famous for their crepe cakes! This particular one was fantastic, having earl grey flavored cream between the layers of the 30 or so crepes. 
 
 {{< figure src="/imgs/life/2020/0006.jpg" >}}
+
+### 1/23/20 (voices of gotham)
+
+Prior to winter break, I had started attending rehearsals for Voices of Gotham, an all male barbershop chorus in my area. For their audition process, I would attend rehearsals and learn an audition piece until I was ready to audition. Between Christmas break and my London work trip, I hadn't been to a rehearsal in almost 2 months, but I was pretty impatient at this point, so I decided to audition my first rehearsal being back. Thankfully, things worked out, so I'm now part of Voices of Gotham! I can't wait to actually perform!
 
 ### 01/25/20 (dumplings+sample sale)
 
@@ -63,6 +67,6 @@ The next morning, we met up with my brother and Shriya for just about my favorit
 {{< figure src="/imgs/life/2020/0010.jpg" >}}
 {{< figure src="/imgs/life/2020/0011.jpg" >}}
 
-Neha has been on the lookout for a succulent or cactus for her room, and I knew of some nice plant stores to take her to. Somehow, she convinced me that she didn't need one, but that I did, so meet my new plant!
+Neha has been on the lookout for a succulent or cactus for her room, and I knew of some nice plant stores to take her to. Somehow, she convinced me that she didn't need one, but that I did, so meet my new plant! It's a type of succulent called a stone plant, which I believe means that it just tries its best to convince everyone that it's a rock.
 
 {{< figure src="/imgs/life/2020/0012.jpg" >}}
