@@ -25,7 +25,19 @@ Friday afternoon, I judged Leopold ready to produce the first loaf. Following th
 
 [1]:https://www.kingarthurflour.com/recipes/no-knead-sourdough-bread-recipe
 
-The strange and unpredictable weather we'd been having all week finally culminated in a snowstorm which left several inches of snow on our deck. With nothing better to do on a Sunday in quarantine, I decided to try making a snow dinosaur. This had been a bucket list item in the back of my mind since early high school, and I can confidently say I crossed it off. 
+
+{{< figure src="/imgs/life/2020/0041.jpg" caption="First picture of mixed dough">}}
+{{< figure src="/imgs/life/2020/0042.jpg" caption="Post rising and shaping">}}
+{{< figure src="/imgs/life/2020/0043.jpg" caption="Ready for baking">}}
+{{< figure src="/imgs/life/2020/0044.jpg" caption="On the cooling rack">}}
+{{< figure src="/imgs/life/2020/0045.jpg" caption="The crumb">}}
+
+The strange and unpredictable weather we'd been having all week finally culminated in a snowstorm which left several inches of snow on our deck. With nothing better to do on a Sunday in quarantine, I decided to try making a snow dinosaur. This had been a bucket list item in the back of my mind since early high school, and I can confidently say I crossed it off. Unfortunately, the next day was considerably warmer, and a couple minutes into a video call with my manager, the neck collapsed. As I started the call by showing him the intact dinosaur, I had to show him its demise.
+
+{{< figure src="/imgs/life/2020/0046.jpg" caption="The dinosaur">}}
+{{< figure src="/imgs/life/2020/0047.jpg" caption="Me for scale">}}
+{{< figure src="/imgs/life/2020/0047_1.gif" caption="Walkaround view">}}
+{{< figure src="/imgs/life/2020/0048.jpg" caption="After the meteorite struck but it was actually just too much sunlight">}}
 
 With volunteering, I've started figuring out my role in Citizens' Climate Lobby (CCL), and also got in contact with someone working on tech solutions for COVID triage for Bangladeshi communities in NYC. Both of these seem like they may be cool ways to feel useful in these times!
 
@@ -37,13 +49,25 @@ One other interesting side effect of quarantine is more intense dreams. These ha
 
 One way that work at least has been trying to fight the drudgery on our behalf is to plan weekly fun activities. This week's was something I'd been looking forward to for a long time: a cheese tasting! Murray's Cheese sent us 4 different types of cheese (French double-creme brie, white lake rachel, comte saint antuine, combozola black label) in addition to pairings (fresh strawberry jam, celery relish, rosemary marcona almonds, oatcakes). Then on Tuesday afternoon, we joined a webinar where a cheese expert talked us through how the cheeses were made and what to pay attention to in tasting. The amount they gave us was more than enough for all 4 of us to enjoy the tasting and for multiple rounds of snacking later!
 
+{{< figure src="/imgs/life/2020/0049.jpg">}}
+
 Mom's been experimenting with fun food stuff while we've been home, the latest of which is Cilbir, a Turkish egg dish consisting of poached eggs in yogurt with various spices and toast. This is definitely a keeper!
+
+{{< figure src="/imgs/life/2020/0050.jpg">}}
 
 By Friday, I was ready to try loaf number two. I was a little apprehensive since my starter didn't seem to have improved that much since the last loaf, but the rest of my family seemed to believe that mediocre bread is better than no bread, so I charged forward. I made this loaf bigger and using bread flour, which we had obtained since last week. 
 
+{{< figure src="/imgs/life/2020/0051.jpg" caption="My loyal sous chef kneading">}}
+
 While we thought we improved on the techniques in making the loaf, unfortunately it rose even less than the last one. Thankfully, the starter had at least progressed in its ability to create flavor, because this loaf was more pleasantly tangy. With thin cut slices toasted on a skillet, I liked it better than the last one! Still, based on videos I had seen of example dough, I think the dough I made was too dry, likely because I wasn't able to precisely measure flour by using volume. For this reason and to be more precise with my starter, I decided to put Leopold in the fridge and order a food scale to more precisely measure feedings for my new starter.
 
+{{< figure src="/imgs/life/2020/0052.jpg" caption="Side view">}}
+{{< figure src="/imgs/life/2020/0053.jpg" caption="Top view">}}
+{{< figure src="/imgs/life/2020/0054.jpg" caption="View of the crumb">}}
+
 On Sunday, the food scale arrived, and I started my new starter: Chatsworth! I've also heard whole wheat flour works well for starters, so Chatsworth was started with whole wheat flour only.
+
+{{< figure src="/imgs/life/2020/0057.jpg" caption="The start of Chatsworth">}}
 
 Also this weekend, at one point, we noticed an Amazon delivery truck pull up outside. A few seconds later, we heard a scream, and we rushed to the door. There, we saw the delivery woman running back to her truck after tossing the package to the door. In our lawn, we noticed a couple small garter snakes soaking up sun. The delivery woman snuck back to "take the picture", but it took me a second to realize she meant a picture of the delivered package, not of the snakes.
 
@@ -51,20 +75,52 @@ While we've generally been doing pretty long walks, this weekend, we decided to 
 
 Besides bread, this weekends culinary experiments were fluffy Japanese pancakes and Mala project style dry pot stir fry. The former was entirely my mom's work, but we happily enjoyed it! The texture was not quite what I expected, but we'll definitely make it again. The Mala dry pot was led by Keshav with me as sous chef, and was also excellent. To get the characteristic complex flavor, we cooked around a dozen unique spices in oil for 20 minutes!
 
+{{< figure src="/imgs/life/2020/0055.jpg" caption="Japanese pancakes">}}
+{{< figure src="/imgs/life/2020/0056.jpg" caption="Mala Dry Pot">}}
+
 ### 04/20/20-04/26/20 (sixth week home)
 
 Tuesday this week brought another work sponsored activity: terrarium making! For this, they sent us a glass globe, soil, two succulents, and various decorative elements. On video chat, an instructor taught us about how to care for the plants and led us through putting together the terrarium, though of course, we had some artistic liberty.
 
+{{< figure src="/imgs/life/2020/0058.jpg" caption="The package">}}
+{{< figure src="/imgs/life/2020/0059.jpg" caption="The components">}}
+{{< figure src="/imgs/life/2020/0060.jpg" caption="The finished product">}}
+
 This was a big cooking week for me and the family. The first was fresh foccashia bread (as part of an Italian lunch) my mom made on Wednesday. Unfortunately, Chatsworth has been quite finicky, so we did use commercial yeast, but the bread rose wonderfully and tasted amazing with the spices and toppings included.
+
+{{< figure src="/imgs/life/2020/0061.jpg">}}
 
 The second dish, made Friday and also led by mom, was fresh corn tortillas (as part of a Mexican dinner). These were made from Masa Harina, corn flour treated with an alkaline solution. While mom lead the process, I at least got to help flip them. They tasted great with all of our standard toppings!
 
+{{< figure src="/imgs/life/2020/0063.jpg" caption="The workstation">}}
+{{< figure src="/imgs/life/2020/0064.jpg" caption="The finished stack with fixings">}}
+
 The next two dishes were both part of cooking classes organized by work through The Chef and the Dish. Saturday's class was mushroom risotto! I had never made risotto, but this turned out amazing, partially through the copious use of butter and proper parmesan (including using the rinds for extra flavor). The class itself was quite well organized with a kitchen assistant watching for questions from any of the 8ish participants and an Paola, accomplished chef based in Milan leading the way and critiquing our efforts. As we'd go through the steps, Paola would call people out one by one "Baron show me your dish... beautiful beautiful!". Paola also described a variant I'm excited to try which substitutes the dried porcini mushrooms for strawberries!
+
+{{< figure src="/imgs/life/2020/0065.jpg" caption="Class workstation">}}
 
 Risotto by nature tends to stiffen up fairly quickly, so I followed Paola's suggestion for the leftovers and cooked them low and slow on butter into a crispy gooey risotto cake Sunday night. The caramelized crust and rich interior were absolutely incredible and possibly the tastiest (and maybe least healthy) thing I've ever made.
 
+{{< figure src="/imgs/life/2020/0066.jpg" caption="Finished risotto">}}
+
 Sunday's class was Spanish tortilla! Unlike Mexican tortillas, Spanish tortillas are actually potato omelettes. While this class was also lots of fun, the end product wasn't quite as satisfying as the risotto. Still, I definitely want to do more of these.
+
+{{< figure src="/imgs/life/2020/0067.jpg" caption="Spanish tortilla">}}
+{{< figure src="/imgs/life/2020/0068.jpg" caption="View inside">}}
 
 Now to revisit some of the continually running threads. First off: Leopold vs Chatsworth. Based on some experimentation, it seems like Leopold does better with all purpose flour than with whole wheat, and slight better when given water that's sat out long enough to be dechlorinated. Chatsworth has been struggling and at one point was giving off some very concerning smells, but now, both starters seem to be doing decently.
 
+{{< figure src="/imgs/life/2020/0077.jpg" caption="Leopold v Chatsworth">}}
+
 I've continued with meditation, occasional exercise, and piano. In addition, I've started doing some actual work with CCL, and I'm definitely excited to have this as part of my routine here.
+
+### 04/27/20-05/03/20 (seventh week home)
+
+Another Tuesday, another work event! This week, we had a paint night to to create something apparently called Monet Sunset. They sent 3 canvas boards, so my mom and brother were also able to join. The class was a prerecorded video which progressed quite rapidly, so all of us struggled a bit to keep up. We still can't decide who did the best or worst.
+
+{{< figure src="/imgs/life/2020/0072_1.png" caption="The inspiration">}}
+{{< figure src="/imgs/life/2020/0072.jpg" caption="Our attempts (starting left and going clockwise: me, Keshav, mom)">}}
+
+By Wednesday, Chatsworth had established himself as the clear winner against Leopold, and I decided it was time for loaf #3. This time, I used a [new recipe from The Perfect Loaf][1]
+
+[1]:https://www.theperfectloaf.com/beginners-sourdough-bread/
