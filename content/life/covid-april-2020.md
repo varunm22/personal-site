@@ -18,6 +18,7 @@ To make these, I mixed the starter with some flour and water Wednesday night and
 
 Later that day, I was browsing Reddit and saw something that reminded me of the babybel wax dinos I made at work in November, so I decided to post them. Throughout the day, I slowly saw my post rise through r/mildlyinteresting until it was one of the hottest posts in the subreddit. At that point, I tried scrolling through r/all and found it on the fifth page! Over the next couple hours, it crept up until it finally made it to the top of the second page. At this point, it started to fall, oscillating between being around the 3rd top post on the second page to being the 6th. I watched this with dread, realizing its popularity may have peaked just too low for the post to reach the front page. Suddenly, it jumped to #24 (front page is top 25)! I'm officially internet famous! Shortly after reaching the front page, I received a message inviting me to the eternity club!
 
+{{< figure src="/imgs/life/2020/0040_3.png" caption="The post itself">}}
 {{< figure src="/imgs/life/2020/0040_2.png" caption="Peak position on front page">}}
 {{< figure src="/imgs/life/2020/0040_1.png" >}}
 

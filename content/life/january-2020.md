@@ -25,7 +25,6 @@ This one is pretty travel related, so it'll be [listed under Travel here][1]
 
 [1]:{{< ref "london-2020.md" >}}. 
 
-
 ### 01/23/20 (crepe cake!)
 
 Today's dessert buffet was catered from Lady M, famous for their crepe cakes! This particular one was fantastic, having earl grey flavored cream between the layers of the 30 or so crepes. 
@@ -35,6 +34,8 @@ Today's dessert buffet was catered from Lady M, famous for their crepe cakes! Th
 ### 1/23/20 (voices of gotham)
 
 Prior to winter break, I had started attending rehearsals for Voices of Gotham, an all male barbershop chorus in my area. For their audition process, I would attend rehearsals and learn an audition piece until I was ready to audition. Between Christmas break and my London work trip, I hadn't been to a rehearsal in almost 2 months, but I was pretty impatient at this point, so I decided to audition my first rehearsal being back. Thankfully, things worked out, so I'm now part of Voices of Gotham! I can't wait to actually perform!
+
+{{< figure src="/imgs/life/2020/0006_1.png" >}}
 
 ### 01/25/20 (dumplings+sample sale)
 
