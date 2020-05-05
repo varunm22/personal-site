@@ -1,7 +1,7 @@
 +++
 title = "COVID Quarantine: April 2020"
 date = 2020-04-23T22:14:20-04:00
-draft = true
+draft = false
 tags = []
 categories = []
 +++
@@ -122,6 +122,36 @@ Another Tuesday, another work event! This week, we had a paint night to to creat
 {{< figure src="/imgs/life/2020/0072_1.png" caption="The inspiration">}}
 {{< figure src="/imgs/life/2020/0072.jpg" caption="Our attempts (starting left and going clockwise: me, Keshav, mom)">}}
 
-By Wednesday, Chatsworth had established himself as the clear winner against Leopold, and I decided it was time for loaf #3. This time, I used a [new recipe from The Perfect Loaf][1]
+By Wednesday, Chatsworth had established himself as the clear winner against Leopold, and I decided it was time for loaf #3, which would be the start of the most baking heavy week of my life. For this loaf, I used a [new recipe from The Perfect Loaf][1] which seemed to include more pictures and explanations than the King Arthur Flour recipe I used last. The other change in my new approach is that this time, I'll be using a food scale. While measuring what I had assumed was a cup of flour from my last try, I realized I was measuring 158g vs the intended 113g, which is why the last dough was so dry!
 
 [1]:https://www.theperfectloaf.com/beginners-sourdough-bread/
+
+This time, the dough was definitely more liquid. I autolysed, mixed with a levain, then did a few rounds of folds throughout the bulk rise. The dough got plenty of big bubbles, but it didn't dome upwards much, making it seem like it wasn't gaining strength properly. While I originally planned on shaping the loaves at night before sleeping, the dough was basically a goopy puddle, so I left it in the fridge overnight until next morning when I got help from my mom to knead the dough with some extra flour until it somewhat held together. 
+
+{{< figure src="/imgs/life/2020/0073.jpg" caption="Bubbly">}}
+
+This recipe called for preheating the dutch oven in the oven before putting in the dough. I was a little scared of placing the dough into the Dutch oven without touching the Dutch oven considering how liquidy the dough was, so I placed the dough first on parchment paper, then placed it into the Dutch oven. Unfortunately, this made the paper fold inwards like a bowl, making the loaf lose all its surface tension and really hurting the oven spring. While this loaf turned out better than #1 or #2, it was barely an improvement.
+
+{{< figure src="/imgs/life/2020/0074.jpg" >}}
+{{< figure src="/imgs/life/2020/0075.jpg" >}}
+
+After finishing the disappointing loaf Thursday morning, I started a sourdough pancake overnight dough Thursday night as a way to make a dent in my sizeable discard container. This time I used entirely whole wheat flour, and with how much stronger my starter has gotten, they turned out even better than last time. 
+
+{{< figure src="/imgs/life/2020/0077.jpg" caption="Stack of perfect pancakes">}}
+
+Unfortunately, I still had a ton of discard left, so I made another discard recipe: crackers! These also turned out awesome, tasting like something between wheat thins and cheez its. They were great, especially with hummus or smoked gouda. The one thing I need to do next time is roll the dough more evenly so that the edge crackers don't get overcooked.
+
+{{< figure src="/imgs/life/2020/0078.jpg" caption="The cracker dough mix">}}
+{{< figure src="/imgs/life/2020/0080.jpg" caption="Fresh out of the oven">}}
+{{< figure src="/imgs/life/2020/0081.jpg" >}}
+
+Saturday morning, I decided to try bread again with the same recipe as last time, but a slightly dryer dough, much more kneading in the initial mix, and to avoid the parchment paper issue, I used the larger portion of my dutch oven upside down on a cast iron pan so the dough could be placed on a flat surface. These ended up much better. I made two loaves worth of dough, and they were the best loaves I've made so far! While the crumb could be more even, the rise was pretty good and this was the first bread that was good enough to be enjoyable untoasted.
+
+{{< figure src="/imgs/life/2020/0083.jpg" caption="Straight out of a magazine (kinda)">}}
+{{< figure src="/imgs/life/2020/0084.jpg" caption="Crumb shot">}}
+
+After bread, pancakes, crackers, and better bread, I was pretty baked out for the week, but I had one more dish coming up Monday. Meanwhile, here are a few more highlights from the week that are not baking:
+
+{{< figure src="/imgs/life/2020/0079.jpg" caption="Friday afternoon, we did a homemade cheese tasting with pairings mom looked up">}}
+{{< figure src="/imgs/life/2020/0082.jpg" caption="During a walk on Saturday on a new route, we came across some marshy areas with plenty of wildlife including a heron and a muskrat">}}
+{{< figure src="/imgs/life/2020/0085.jpg" caption="My brother made Mala dry pot again, and this time, it turned out even better, potentially because we nailed down the flavor/spice balances">}}
