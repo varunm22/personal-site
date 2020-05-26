@@ -46,6 +46,14 @@ The next morning, Neha lead the way again, this time bringing me to Michelin sta
 
 Later that evening, I hosted a birthday get-together at my apartment with several friends, plenty of homemade cocktails, and pizza. The next day, Neha and I relaxed, cooked and watched Netflix to recover from the rest of the weekend.
 
+### trend watch
+
+Throughout the month, I started paying attention to the "trend watch" advertisements on giant screens lining the last walking portion of my commute to work. While some of the "trends" were reasonable, on average they were strange and horrifying. I wonder what the qualifications are of the person coming up with these, and whether they're attempting to observe existing trends or start their own. Either way I enjoyed the opportunity to watch trend watch trends.
+
+{{< figure src="/imgs/life/2020/0089.jpg" caption="Or just get a bigger purse? This is so unnecessary">}}
+{{< figure src="/imgs/life/2020/0090.jpg" caption="UGH this looks like what I'd wear coming out of basketball practice as an 8 year old. The middle one isn't that bad, but the right one is GROSS">}}
+{{< figure src="/imgs/life/2020/0091.jpg" caption="what??">}}
+
 ### 02/24/20 (tv filming?)
 
 As I left my apartment this morning, I noticed cameras, lights, and cones sitting on the sidewalk a couple hundred feet from my apartment. One of the people I asked on set said they were filming Law & Order SVU, so I hope I can find out what episode that happens in.
