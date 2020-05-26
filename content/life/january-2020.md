@@ -21,7 +21,7 @@ My next destination was the Whitney Museum of American Art, where I met Sid and 
 
 ### 01/04/20-01/19/20 (london trip)
 
-This one is pretty travel related, so it'll be [listed under Travel here][1] 
+This one is pretty travel related, so it'll be [listed under Travel here][1].
 
 [1]:{{< ref "london-2020.md" >}}. 
 

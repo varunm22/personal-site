@@ -1,7 +1,7 @@
 +++
 title = "London 2020 (and Milan!)"
 date = 2020-01-19T22:22:50-04:00
-draft = true
+draft = false
 tags = []
 categories = []
 +++
