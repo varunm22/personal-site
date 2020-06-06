@@ -1,6 +1,6 @@
 +++
-title = "Covid May 2020"
-date = 2020-05-10T19:54:54-04:00
+title = "COVID Quarantine: May 2020"
+date = 2020-05-31T19:54:54-04:00
 draft = false
 tags = []
 categories = []
