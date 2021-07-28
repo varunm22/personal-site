@@ -95,7 +95,7 @@ Roughly following a list of Verona's highlights, we wandered past churches and t
 {{< figure src="/imgs/milan/0009.jpg">}}
 {{< figure src="/imgs/milan/0010.jpg">}}
 
-Tired from the day's sites, we stopped next at a riverside path between two bridges and just enjoyed the sunlight. We half napped here until the sun went down and the air grew chilly. On our way back to the center of town, we stopped for dessert at a pastry shop then for dinner at a restaurant serving polenta - the final Verona signature dish we had not yet had here. Then we headed back to catch our train and retreated to the hotel.
+Tired from the day's sites, we stopped next at a riverside path between two bridges and just enjoyed the sunlight. We half napped here until the sun went down and the air grew chilly. On our way back to the center of town, we stopped for dessert at a pastry shop then for dinner at a restaurant serving polenta - the final Verona signature dish we had not yet had here. Then we headed back to catch our train back to Milan.
 
 {{< figure src="/imgs/milan/0022.jpg" caption="The riverside path">}}
 {{< figure src="/imgs/milan/0011.jpg" caption="Stretched out to relax">}}
@@ -124,7 +124,7 @@ We had decided at the start of the trip to celebrate Milan's reputation as Italy
 
 [1]:{{< ref "the-sweater.md" >}}. 
 
-Finally, we had to head back to the hotel to grab our things. We went to the central station where Neha would catch her train back to her host family town and where I hoped to catch an airport shuttle. This involved being sold a ticket to the wrong airport, then being sold a ticket for the right airport but for a bus leaving in an hour. Finally I found a shuttle leaving in 20 minutes, and even after buying this third ticket, I still had spent less money than I had on the cab from the airport. I said goodbye and headed back to London. 
+Finally, we had to head back to get our things. We went to the central station where Neha would catch her train back to her host family town and where I hoped to catch an airport shuttle. This involved being sold a ticket to the wrong airport, then being sold a ticket for the right airport but for a bus leaving in an hour. Finally I found a shuttle leaving in 20 minutes, and even after buying this third ticket, I still had spent less money than I had on the cab from the airport. I said goodbye and headed back to London. 
 
 ### 01/13/2020-01/19/2020 (second week in london)
 
